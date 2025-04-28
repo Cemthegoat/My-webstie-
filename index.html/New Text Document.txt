@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zeta AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Zeta AI</div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Features</a>
+            <a href="#">Pricing</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to Zeta AI</h1>
+        <p>Smart solutions powered by next-generation AI.</p>
+        <a href="#" class="btn">Get Started</a>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h2>AI Assistance</h2>
+            <p>Intelligent support for your daily tasks.</p>
+        </div>
+        <div class="feature">
+            <h2>Fast Integration</h2>
+            <p>Easy to set up and use in minutes.</p>
+        </div>
+        <div class="feature">
+            <h2>Secure & Reliable</h2>
+            <p>We prioritize your data privacy and safety.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Zeta AI. All rights reserved.</p>
+    </footer>
+</body>
+</html>
